@@ -1,4 +1,4 @@
-# Análise de Sentimento de Avaliações de Dados Extraídos da Base do Twitter Relacionado ao Tema Eletrobrás
+# Analise_de_Sentimento_de_Avaliacoes_de_Dados_Extraidos_da_Base_do_Twitter_Relacionado_ao_Tema_Eletrobras
 
 **Aluno: André Luis Mendes Teixeira - Matrícula: 211.101.300**
 
